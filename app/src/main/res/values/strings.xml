@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bus App Admin</string>
+    <string name="user_id">DNI</string>
+    <string name="user_name">Nombre</string>
+    <string name="user_lastname">Apellido</string>
+    <string name="user_phone">Télefono</string>
+    <string name="tracker">Rastrear</string>
+    <string name="add">Agregar</string>
+    <string name="settings">Ajustes</string>
+    <string name="add_user_title">Agregar usuario</string>
+    <string name="user_destination">Destino</string>
+</resources>
